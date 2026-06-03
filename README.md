@@ -1,2 +1,2 @@
-# Fork
-You cannot spoon with a Fork
+# Spoon
+You can fork with a Spoon
